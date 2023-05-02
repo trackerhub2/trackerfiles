@@ -5,19 +5,15 @@
   "homepage": "https://demo.pomf.se",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pomf/pomf"
+    "url": "https://github.com/trackerhub2/trackerfiles"
   },
-  "author": "Eliot Whalan <ewhal@pantsu.cat>",
+  "author": "TrackerFiles <trackerfiles@tutanota.com>",
   "contributors": [
     "Go Johansson <neku@pomf.se>",
-    "Peter Lejeck <peter.lejeck@gmail.com>",
-    "cenci0 <alchimist94@gmail.com>",
-    "Juuso Lapinlampi <wub@partyvan.eu>",
-    "Luminarys <postmaster@gensok.io>"
-  ],
+
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pomf/pomf/issues"
+    "url": "https://github.com/trackerhub2/trackerfiles/issues"
   },
   "devDependencies": {
     "clean-css": "^5.1.2",
