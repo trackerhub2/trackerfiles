@@ -1,10 +1,10 @@
 <p class="alert alert-info">
 	<strong>{{siteName}} is free to use, but our hosting costs are far from it</strong> &mdash; donations are what keep {{siteName}} alive, free, and fast.</strong>
 	<span class="donate-btns">
-		{% if paypalUrl != '' %}
-			<a class="donate-btn donate-paypal" href="{{paypalUrl}}" target="_BLANK">
-				<span class="icon icon-paypal"></span>
-				PayPal
+		{% if moneroAddress != '' %}
+			<a class="donate-btn donate-Monero" href="{{moneroAddress}}" target="_BLANK">
+				<span class="icon icon-monero"></span>
+				Monero
 			</a>
 		{% endif %}
 		{% if bitcoinAddress != '' %}
